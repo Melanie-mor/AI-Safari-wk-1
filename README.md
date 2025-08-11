@@ -1,4 +1,5 @@
 PHRASE 1
+
 Business Name: Melaniq
 (A fusion of my name “Melanie” + “IQ” — symbolizing intelligence, creativity, and a personal touch.)
 
@@ -15,6 +16,7 @@ Because at Melaniq, branding isn’t just our work — it’s our art, our scien
 ---
 
 PHRASE 2
+
  "Generate five engaging social media post ideas that promote AI-powered branding services. Each post should have a call to action."
 1️⃣ “Your Brand, But Smarter”
 Visual: A split image — left side a dull, generic logo, right side a bold, futuristic AI-generated brand identity.
@@ -87,6 +89,7 @@ At Melaniq, we combine AI intelligence with human creativity to help businesses 
 ---
 
 PHRASE 3
+
 "Write a persuasive email to a potential client explaining how AI-generated branding can help elevate their business presence."
 Hi [Client’s Name],
 
